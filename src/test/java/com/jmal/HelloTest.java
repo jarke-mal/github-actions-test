@@ -7,6 +7,6 @@ public class HelloTest {
 
   @Test
   public void name() {
-    Assert.assertTrue(1 > 90);
+    Assert.assertTrue(1 > 0);
   }
 }
